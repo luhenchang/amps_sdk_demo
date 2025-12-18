@@ -4,7 +4,7 @@ allprojects {
         mavenCentral()
         maven {//TODO 媒体依赖需要添加
             name = "myrepo"
-            url = uri("file:///D:/wangfei/soft/flutter_windows/PUB/hosted/pub.dev/amps_sdk-0.0.5/android/m2repository")
+            url = uri("file:///D:/wangfei/soft/flutter_windows/PUB/hosted/pub.dev/amps_sdk-0.2.0/android/m2repository")
         }
     }
 }
